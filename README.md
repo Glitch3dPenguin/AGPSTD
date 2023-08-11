@@ -9,6 +9,3 @@ Things I used:
 2) Arduino Uno R3 - http://arduino.cc/en/Main/arduinoBoardUno
 3) LCD Sheild - http://www.dfrobot.com/index.php?route=product/product&product_id=51#.U1X4ufldVpk
 4) SeeedStudio SD Card Sheild - http://www.seeedstudio.com/depot/SD-card-shield-p-492.html
-
-**NOTE** 
-I will be adding more info soon.
